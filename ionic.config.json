@@ -1,0 +1,7 @@
+{
+  "name": "vaibusPSU",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
